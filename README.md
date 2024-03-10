@@ -6,8 +6,7 @@ The dataset is from Kaggle.
 
 This Dataset has details like youtube channels name, category, language, country, branded or not, number of subscribers and channel's rank.
 Tools Used :-
-MYSQL - Data cleaning and Exploratory data analysis [MySQL File](https://github.com/nidhigupta13/DATA-ANALYTICS- PORTFOLIO/blob/main/Most%20Subscribed%20YouTube%20Channel/Most%20Subscribed%20Youtube%20Channels.sql)
-
+MYSQL - Data cleaning and Exploratory data analysis 
 POWER BI - To visualize the analysis output Power BI File >>> Dashboard Overview
 
 Conclusion :
